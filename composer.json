@@ -1,0 +1,10 @@
+{
+    "name": "tahmina/codeship",
+    "authors": [
+        {
+            "name": "Tahmina Khatoon",
+            "email": "tahina@brainstation-23.com"
+        }
+    ],
+    "require": {}
+}
